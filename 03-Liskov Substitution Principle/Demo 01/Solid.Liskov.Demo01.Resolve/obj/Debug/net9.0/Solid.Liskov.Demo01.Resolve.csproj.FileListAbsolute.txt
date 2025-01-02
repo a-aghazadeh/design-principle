@@ -1,0 +1,15 @@
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\bin\Debug\net9.0\Solid.Liskov.Demo01.Resolve.exe
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\bin\Debug\net9.0\Solid.Liskov.Demo01.Resolve.deps.json
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\bin\Debug\net9.0\Solid.Liskov.Demo01.Resolve.runtimeconfig.json
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\bin\Debug\net9.0\Solid.Liskov.Demo01.Resolve.dll
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\bin\Debug\net9.0\Solid.Liskov.Demo01.Resolve.pdb
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.AssemblyInfoInputs.cache
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.AssemblyInfo.cs
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.csproj.CoreCompileInputs.cache
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.sourcelink.json
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.dll
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\refint\Solid.Liskov.Demo01.Resolve.dll
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.pdb
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\Solid.Liskov.Demo01.Resolve.genruntimeconfig.cache
+F:\Program Example\dotnet\Design-principle\03-Liskov Substitution Principle\Demo 01\Solid.Liskov.Demo01.Resolve\obj\Debug\net9.0\ref\Solid.Liskov.Demo01.Resolve.dll

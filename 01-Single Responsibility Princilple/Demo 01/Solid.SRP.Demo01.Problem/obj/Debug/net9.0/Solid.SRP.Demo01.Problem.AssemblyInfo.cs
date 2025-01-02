@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solid.SRP.Demo01.Problem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bfb810b9d0ba1b30334fa9edf4622df4be3ceec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f1a99ada50cad5a61dbf9236b0a293107947ce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solid.SRP.Demo01.Problem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solid.SRP.Demo01.Problem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
