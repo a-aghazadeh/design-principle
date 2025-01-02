@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solid.SRP.Demo01.Resolve")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bfb810b9d0ba1b30334fa9edf4622df4be3ceec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solid.SRP.Demo01.Resolve")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solid.SRP.Demo01.Resolve")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

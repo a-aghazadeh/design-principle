@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Solid.OCP.Demo01.Resolve/1.0.0": {
+        "runtime": {
+          "Solid.OCP.Demo01.Resolve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solid.OCP.Demo01.Resolve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
