@@ -1,0 +1,14 @@
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\bin\Debug\net9.0\Solid.SRP.Demo01.Resolve.exe
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\bin\Debug\net9.0\Solid.SRP.Demo01.Resolve.deps.json
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\bin\Debug\net9.0\Solid.SRP.Demo01.Resolve.runtimeconfig.json
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\bin\Debug\net9.0\Solid.SRP.Demo01.Resolve.dll
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\bin\Debug\net9.0\Solid.SRP.Demo01.Resolve.pdb
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.AssemblyInfoInputs.cache
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.AssemblyInfo.cs
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.csproj.CoreCompileInputs.cache
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.dll
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\refint\Solid.SRP.Demo01.Resolve.dll
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.pdb
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\Solid.SRP.Demo01.Resolve.genruntimeconfig.cache
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Resolve\obj\Debug\net9.0\ref\Solid.SRP.Demo01.Resolve.dll

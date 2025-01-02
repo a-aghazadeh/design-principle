@@ -1,0 +1,14 @@
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\bin\Debug\net9.0\Solid.SRP.Demo01.Problem.exe
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\bin\Debug\net9.0\Solid.SRP.Demo01.Problem.deps.json
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\bin\Debug\net9.0\Solid.SRP.Demo01.Problem.runtimeconfig.json
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\bin\Debug\net9.0\Solid.SRP.Demo01.Problem.dll
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\bin\Debug\net9.0\Solid.SRP.Demo01.Problem.pdb
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.AssemblyInfoInputs.cache
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.AssemblyInfo.cs
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.csproj.CoreCompileInputs.cache
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.dll
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\refint\Solid.SRP.Demo01.Problem.dll
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.pdb
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\Solid.SRP.Demo01.Problem.genruntimeconfig.cache
+F:\Program Example\dotnet\Design-principle\01-Single Responsibility Princilple\Demo 01\Solid.SRP.Demo01.Problem\obj\Debug\net9.0\ref\Solid.SRP.Demo01.Problem.dll
