@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solid.OCP.Demo01.Resolve")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f1a99ada50cad5a61dbf9236b0a293107947ce0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d352ab2b6ef55ed123362c654de0e7fb70fbac37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solid.OCP.Demo01.Resolve")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solid.OCP.Demo01.Resolve")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
