@@ -1,0 +1,5 @@
+F:\Program Example\dotnet\Design-principle\05-Dependency Inversion Principle\Demo 01\Solid.DI.Demo01.Resolve\obj\Debug\net9.0\Solid.DI.Demo01.Resolve.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program Example\dotnet\Design-principle\05-Dependency Inversion Principle\Demo 01\Solid.DI.Demo01.Resolve\obj\Debug\net9.0\Solid.DI.Demo01.Resolve.AssemblyInfoInputs.cache
+F:\Program Example\dotnet\Design-principle\05-Dependency Inversion Principle\Demo 01\Solid.DI.Demo01.Resolve\obj\Debug\net9.0\Solid.DI.Demo01.Resolve.AssemblyInfo.cs
+F:\Program Example\dotnet\Design-principle\05-Dependency Inversion Principle\Demo 01\Solid.DI.Demo01.Resolve\obj\Debug\net9.0\Solid.DI.Demo01.Resolve.csproj.CoreCompileInputs.cache
+F:\Program Example\dotnet\Design-principle\05-Dependency Inversion Principle\Demo 01\Solid.DI.Demo01.Resolve\obj\Debug\net9.0\Solid.DI.Demo01.Resolve.sourcelink.json
